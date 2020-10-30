@@ -9,9 +9,9 @@ int main(void){
 	scanf("%d", &n);
 	
 	for(int i = 1; i<= n; i++){
-		strette = strette * i;	
+		strette = strette - i;	
 	}
-	strette = strette/2;
+
 	printf("Il numero di strette di mano è: %i\n", strette);
 	
 	return 0;
