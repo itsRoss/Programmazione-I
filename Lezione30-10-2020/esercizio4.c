@@ -3,7 +3,7 @@
 int main(void){
 	//dichiarazione variabili
 	int n;
-	int strette = 1;
+	int strette = 0;
 	
 	printf("Inserisci il numero di partecipanti: ");	
 	scanf("%d", &n);
