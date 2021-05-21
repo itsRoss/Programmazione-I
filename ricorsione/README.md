@@ -2,4 +2,4 @@
 
 Esercizi sulla ricorsione presi dalla lezione 20 del prof. Boscaini
 
-![](C:\Users\nbada\Desktop\ricorsione.PNG)
+![](https://github.com/itsRoss/Programmazione-I/blob/main/ricorsione/ricorsione.PNG)
